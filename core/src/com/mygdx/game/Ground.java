@@ -5,16 +5,18 @@ import com.badlogic.gdx.Input;
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
+import java.io.File;
+
 public class Ground extends Image {
     public Ground(SpriteBatch batch){
         super(
-                new Texture("snowy.png"),
+                new Texture("backgrounds" + File.separator+"Stage1ground.png"),
                 batch,
-                5000,
-                300,
+                10000,
+                1080,
                 0,
                 0,
-                5,
+                10,
                 0,
                 0
 
