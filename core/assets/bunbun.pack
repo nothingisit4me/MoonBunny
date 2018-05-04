@@ -1,0 +1,48 @@
+
+bunbun.png
+size: 2048, 1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stillLeft
+  rotate: false
+  xy: 0, 0
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+stillLeft
+  rotate: false
+  xy: 131, 526
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+stillLeft
+    rotate: false
+    xy: 526, 131
+    size: 131, 131
+    orig: 131, 131
+    offset: 0, 0
+    index: -1
+stillRight
+  rotate: false
+  xy: 1184, 0
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+stillRight
+  rotate: false
+  xy: 789, 131
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+stillRight
+  rotate: false
+  xy: 131, 789
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
